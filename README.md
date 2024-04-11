@@ -1,0 +1,1 @@
+# An assignment done demonstrating successful connection between frontend and Firebase. A very basic project, done only to try out the connection and if/how it works. Done for course Web- and Hybrid Technologies in Mobile Programming 
